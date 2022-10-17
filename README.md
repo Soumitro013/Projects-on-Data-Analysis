@@ -1,1 +1,1 @@
-# Projects-on-Exploratory-Data-Analysis
+# Projects on Statistical Data Analysis and Linear Regression.
