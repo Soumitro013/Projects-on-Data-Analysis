@@ -1,1 +1,0 @@
-Statistical Inference and Hypothesis Testings on different parameters has been performed on the mtcars dataset.
