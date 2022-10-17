@@ -1,1 +1,1 @@
-Descriptive Statistical Measures and data Visualization has been performed on the possum dataset.
+Descriptive Statistical Measures and Data Visualization has been performed on the possum dataset.
