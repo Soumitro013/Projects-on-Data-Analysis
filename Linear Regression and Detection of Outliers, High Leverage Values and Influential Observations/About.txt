@@ -1,0 +1,1 @@
+Detection of Outliers, High Leverage Values and Influential Observations has been done by implementing Standardized Residuals, Studentized Residuals, Cook's Distance, DFfits, DFBetas and Leverage values of Hat Matrix.
