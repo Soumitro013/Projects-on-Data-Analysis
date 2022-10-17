@@ -1,0 +1,1 @@
+Detection of Multicolinearity (i.e. dependence in between the independent variables) by Variance Inflation Factor(VIF) and Condition Number. Principal Component Analysis(PCA) and Ridge Regression are performed to solve the problem of multicolinearity.
